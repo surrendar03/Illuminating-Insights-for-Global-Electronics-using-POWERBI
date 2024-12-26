@@ -94,6 +94,4 @@ Delivered a **comprehensive EDA report** featuring:
 
 
 ## **Result;**
-![Screenshot 2024-11-19 132002](https://github.com/user-attachments/assets/e2fa652c-20b4-4872-9b20-5ffd1d58bedf)
-![Screenshot 2024-11-19 132043](https://github.com/user-attachments/assets/69672c6d-10f8-4668-aedd-a3e4e249f14c)
-![Screenshot 2024-11-19 132131](https://github.com/user-attachments/assets/154944e1-56f8-43b2-aca1-cab32c0f7eef)
+
