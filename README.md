@@ -96,4 +96,4 @@ Delivered a **comprehensive EDA report** featuring:
 ## **Result;**
 ![image alt](https://github.com/surrendar03/Illuminating-Insights-for-Global-Electronics-using-POWERBI/blob/main/Screenshot%202024-12-26%20080123.png?raw=true)
 ![image alt](https://github.com/surrendar03/Illuminating-Insights-for-Global-Electronics-using-POWERBI/blob/main/Screenshot%202024-12-26%20080233.png?raw=true)
-![image alt](https://github.com/surrendar03/Illuminating-Insights-for-Global-Electronics-using-POWERBI/blob/main/Screenshot%202024-12-26%20080233.png?raw=true)
+![image alt](https://github.com/surrendar03/Illuminating-Insights-for-Global-Electronics-using-POWERBI/blob/main/Screenshot%202024-12-26%20080255.png?raw=true)
